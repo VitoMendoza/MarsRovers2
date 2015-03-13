@@ -1,0 +1,15 @@
+MarsRovers 2
+
+
+Inputs:
+
+Estan en el archivo MarsRovers2.java. Dentro del main se declara un objeto de tipo Robot indicando sus atributos(int coordenadaX, int coordenadaY, Character orientacion) y luego se ordena la serie de comandos de exploracion(String comandos) 
+
+Outputs:
+
+Imprimimos la ubicacion despues de la ejecucion de los comandos de exploracion en el Output de la consola con un System.out.println y procedemos con la ejecucion de la aplicacion.
+
+
+
+
+En el mismo archivo hay 2 tests de ejemplo.
