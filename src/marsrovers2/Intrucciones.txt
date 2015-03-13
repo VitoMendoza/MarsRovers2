@@ -1,5 +1,6 @@
 MarsRovers 2
 
+El codigo fue desarrollado en el entorno NetBeans IDE 8.0.
 
 Inputs:
 
