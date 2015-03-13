@@ -15,16 +15,16 @@ public class Datos {
     private int y;
     private Character orientacion;
 
-    public void setX(int x) {
-        this.x = x;
+    public void setX(int xx) {
+        this.x = xx;
     }
 
-    public void setY(int y) {
-        this.y = y;
+    public void setY(int yy) {
+        this.y = yy;
     }
 
-    public void setOrientacion(Character orientacion) {
-        this.orientacion = orientacion;
+    public void setOrientacion(Character direccion) {
+        this.orientacion = direccion;
     }
 
     public int getX() {
